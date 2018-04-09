@@ -96,7 +96,7 @@ Quand vous faites une taxonomie personnalisée, vous devez réfléchir à :
 * [Son identifiant dans le code](https://github.com/ppierre/base-theme-wordpress/blob/master/functions.php#L73L74)
 * [Le nom affiché à l'utilisateur](https://github.com/ppierre/base-theme-wordpress/blob/master/functions.php#L79)
 * [Quels contenus va-t-elle classer (un ou plusieurs) ?](https://github.com/ppierre/base-theme-wordpress/blob/master/functions.php#L75L76)
-*[http://codex.wordpress.org/Function_Reference/register_taxonomy](http://codex.wordpress.org/Function_Reference/register_taxonomy)*
+*[http://codex.wordpress.org/Function_Reference/register_taxonomy](http://codex.wordpress.org/Function_Reference/register_taxonomy)
 
 Lire la documentation et penser à l'option [`hierarchical` qui sert à dire si la nouvelle taxonomie doit se comporter comme des Tag ou comme une Category](https://github.com/ppierre/base-theme-wordpress/blob/master/functions.php#L80).
 
